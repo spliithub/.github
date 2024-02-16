@@ -1,4 +1,4 @@
-[<img alt="Spliit" height="60" src="https://github.com/spliithub/spliit-www/blob/dev/public/logo192.png" />](https://www.spliit.fr)
+[<img alt="Spliit" height="60" src="https://github.com/spliithub/.github/blob/master/profile/assets/logo192.png" />](https://www.spliit.fr)
 
 # Spliit - Expérience unique de recherche de bureaux
 
@@ -9,4 +9,4 @@
 
 L'équipe tech de Spliit développe le site [www.spliit.fr](https://www.spliit.fr), app.spliit.fr et plus encore 🗼 
 
-![Une illustration montrant 2 cyclistes](https://github.com/spliithub/spliit-www/blob/dev/public/assets/illustrations/illu_building_couple.svg)
+![Une illustration montrant 2 cyclistes](https://github.com/spliithub/.github/blob/master/profile/assets/illustrations/illu_building_couple.svg)
