@@ -3,7 +3,7 @@
 # Spliit - Expérience unique de recherche de bureaux
 
 [Spliit](https://www.spliit.fr) adopte une approche moderne de l'immobilier de bureaux :
-- avec une expérience simplifié,
+- avec une expérience simplifiée,
 - une application inédite,
 - un(e) expert(e) dédié(e).
 
